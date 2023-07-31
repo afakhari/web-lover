@@ -1,2 +1,2 @@
 # webga
-be sure don't choose high number for open pages
+be sure don't choose high number for opening pages
